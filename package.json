@@ -1,0 +1,19 @@
+{
+  "name": "c-coin",
+  "version": "1.0.0",
+  "description": "This is a simple blockchain application for a cryptocurrency. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cop1fab/c-coin.git"
+  },
+  "author": "Copain Fabrice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cop1fab/c-coin/issues"
+  },
+  "homepage": "https://github.com/cop1fab/c-coin#readme"
+}
