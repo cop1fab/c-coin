@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cop1fab/c-coin/issues"
   },
-  "homepage": "https://github.com/cop1fab/c-coin#readme"
+  "homepage": "https://github.com/cop1fab/c-coin#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
 }
